@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color:rgb(218, 243, 255);
+}
+.task-add{
+  margin-top: 20px;
+}
+.ajoute{
+  margin-top: 20px;
+}
+span {
+ color: red;
+ font-style: italic;
+ font-weight: bold;
+}
+h1{
+ color: blue !important;
+ font-weight: bold;
+
+}
+.task-card {
+  margin: 45px 50vh 50px 45vh;
+  padding: 10px 20px 10px 20px;
+  background-color:  rgb(174, 219, 241);
+ }
+p {
+ font-weight: bold;
+}
+button {
+  color: black;
+  font-weight: bold;
+  background-color: rgb(52, 165, 222);
+}
